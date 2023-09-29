@@ -1,2 +1,2 @@
 # my-first-blog1
-software
+django 
